@@ -1,7 +1,7 @@
 # JS-Cookie-Clicker
 
 ## But
-Obtenir un Cookie Clicker personnalisé content:
+Obtenir un Cookie Clicker personnalisé contient:
 - Un affichage du nombre de Cookie,
 - Un bouton "clic" pour rajouter les Cookies manuellement,
 - Un bouton "multiplicateur" pour multiplier les clics manuellement,
